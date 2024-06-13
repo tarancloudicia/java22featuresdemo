@@ -1,6 +1,6 @@
 # Java 22 Features Demo
 
-This project showcases the new features introduced in Java 22. This repository is not meant for the preview features.s
+This project showcases the new features introduced in Java 22. This repository is not meant for the preview features.
 
 1. Unnamed Variables
 
