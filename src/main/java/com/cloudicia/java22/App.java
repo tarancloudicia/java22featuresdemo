@@ -5,6 +5,7 @@ package com.cloudicia.java22;
  */
 public class App {
     public static void main(String[] args) {
+        
         System.out.println("Java 22 Features Demo");
     }
 
